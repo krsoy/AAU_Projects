@@ -1,0 +1,46 @@
+# Python 缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虚拟环境
+.venv/
+env/
+venv/
+
+# 编辑器配置文件
+.idea/
+.vscode/
+
+# 日志文件
+*.log
+
+# 数据库文件
+*.sqlite3
+.*
+# 环境变量文件
+.env
+.venv
+.idea
+*.csv
+*.rar
+
+# 打包文件
+*.egg-info/
+dist/
+build/
+
+# 单元测试覆盖率文件
+.coverage
+htmlcov/
+
+# Jupyter Notebook 检查点
+.ipynb_checkpoints/
+
+# 临时文件
+*.tmp
+*.bak
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
