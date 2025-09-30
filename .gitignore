@@ -22,7 +22,6 @@ venv/
 .env
 .venv
 .idea
-*.csv
 *.rar
 
 # 打包文件
