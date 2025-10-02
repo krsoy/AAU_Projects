@@ -3,3 +3,4 @@ df = pd.read_('https://raw.githubusercontent.com/rfordatascience/tidytuesday/mai
 print(df.head())
 print(df.describe())
 print(df.info())
+print(2)
