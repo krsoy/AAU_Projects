@@ -26,3 +26,4 @@ uri-template
 webcolors
 wget
 wheel
+xgboost
